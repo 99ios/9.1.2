@@ -1,0 +1,13 @@
+//
+//  XibViewController.h
+//  9.1.2 使用xib以及Storyboard创建控制器
+//
+//  Created by 李维佳 on 2017/4/4.
+//  Copyright © 2017年 Liz. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface XibViewController : UIViewController
+
+@end
